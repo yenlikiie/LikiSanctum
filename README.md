@@ -1,5 +1,4 @@
-
-# LikiSanctum YOLO Project
+﻿# LikiSanctum YOLO Project
 
 YOLO-based computer vision project with two entry points:
 
