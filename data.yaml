@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['mars rocks detection - v2 2023-08-14 10-43pm']
+
+roboflow:
+  workspace: yenlik
+  project: mars-yrjkm-wgwfn
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yenlik/mars-yrjkm-wgwfn/dataset/1
